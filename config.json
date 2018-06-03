@@ -29,8 +29,8 @@
         }
     ],
     "print-time": 60,
-    "retries": 5,
-    "retry-pause": 5,
+    "retries": 99999,
+    "retry-pause": 2,
     "safe": false,
     "threads": 1,
     "user-agent": null,
