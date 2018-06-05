@@ -19,7 +19,7 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "80.211.54.119:80",
+            "url": "85.255.7.60:80",
             "user": "YOUR_WALLET",
             "pass": "x",
             "rig-id": null,
@@ -29,7 +29,7 @@
         }
     ],
     "print-time": 60,
-    "retries": 99999,
+    "retries": 50,
     "retry-pause": 2,
     "safe": false,
     "threads": 1,
