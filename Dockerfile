@@ -1,4 +1,6 @@
-FROM  ubuntu:16.10
+FROM  ubuntu:16.04
+RUN apt-get update
+RUN apt-get install git-core
 RUN apt-get install cpulimit
 RUN git clone https://github.com/lanka256/xmr-cpu-limit3.git
 WORKDIR xmr-cpu-limit3/
