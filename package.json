@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "start.js"
+    "start": "node server.js"
   },
   "license": "MIT",
   "dependencies": {
